@@ -17,6 +17,12 @@ html {
     height: 100%;
 }
 
+@font-face {
+  font-family: Canterbury;
+  src: url(../fonts/Canterbury.ttf);
+}
+
+
 h1,
 h2,
 h3,
