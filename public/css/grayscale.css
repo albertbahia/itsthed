@@ -18,8 +18,8 @@ html {
 }
 
 @font-face {
-  font-family: Canterbury;
-  src: url(../fonts/Canterbury.ttf);
+  font-family: 'OldLondon';
+  src: url('OldLondon.ttf') format('truetype');
 }
 
 #event-name {
@@ -41,7 +41,7 @@ h6 {
 
 #the-d-letter {
   margin: 0 0 -15px;
-  font-family: Canterbury;
+  font-family: 'OldLondon';
 }
 p {
     margin: 0 0 25px;
@@ -192,7 +192,7 @@ a:focus {
     }
 
     #the-d-letter {
-      font-size: 110px;
+      font-size: 170px;
     }
 
     .intro .intro-body .intro-text {
